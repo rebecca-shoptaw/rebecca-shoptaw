@@ -73,6 +73,10 @@ Cat Band:
 | **Tabula Rasa**  | Stylish and streamlined markdown previewer. 💻🌲| [x](https://github.com/rebecca-shoptaw/tabula-rasa)   | [x](https://rebeccashoptaw.dev/tabula-rasa)     |
 | **Mrs. John Lennox**  | Press kit site for a Super 8mm short film. 👩🎥 | [x](https://github.com/rebecca-shoptaw/mrs-john-lennox)   | [x](https://rebeccashoptaw.dev/mrs-john-lennox)     |
 
+## Contact & More 📬✨
+[Email](mailto:rebecca@rebeccashoptaw.dev) | [LinkedIn](https://www.linkedin.com/in/rebeccashoptaw/) | [Resume](https://rebeccashoptaw.dev/Rebecca_Shoptaw_resume.pdf)
+
+
 <!-- Links and Icons --> 
 [React-icon]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://react.dev/
