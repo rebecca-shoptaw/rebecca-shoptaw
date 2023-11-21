@@ -55,7 +55,7 @@ Portfolio:
 - [ ] Run more performance tests
 
 Cat Band:
-- [ ] New background
+- [x] New background
 - [ ] Redo data storage
 - [ ] Move cats into separate, reusable component
 
