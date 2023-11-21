@@ -10,7 +10,7 @@ Building with:
 
 ## Featured Projects 💡⚡
 
-<img width="350px"  alt="Triolingo Interface" src="https://github.com/rebecca-shoptaw/rebecca-shoptaw.github.io/blob/main/public/triolingo.png">
+<img width="300px"  alt="Triolingo Interface" src="https://github.com/rebecca-shoptaw/rebecca-shoptaw.github.io/blob/main/public/triolingo.png">
 
 ### Triolingo 🐱📚
 
@@ -18,7 +18,7 @@ A Duolingo look-alike to help middle schoolers practice vocab, currently expandi
 
 [Repo](https://github.com/rebecca-shoptaw/triolingo) | [Live](https://rebeccashoptaw.dev/triolingo/)
 
-<img width="350px" alt="OpenEditions_MonteCristo" src="https://github.com/rebecca-shoptaw/open-editions/assets/140550988/563459f9-3985-4d53-a5f3-9b5c76630f47">
+<img width="300px" alt="OpenEditions_MonteCristo" src="https://github.com/rebecca-shoptaw/open-editions/assets/140550988/563459f9-3985-4d53-a5f3-9b5c76630f47">
 
 ### Open Editions 📖✨
 An aesthetically pleasing audiobook player designed to mimic the feeling of reading a physical book. 
@@ -26,7 +26,7 @@ An aesthetically pleasing audiobook player designed to mimic the feeling of read
 [Repo](https://github.com/rebecca-shoptaw/open-editions) | [Live](https://rebeccashoptaw.dev/open-editions/)
 
 
-<img width="350px"  alt="Cat Band Interface" src="https://github.com/rebecca-shoptaw/rebecca-shoptaw.github.io/blob/main/public/cat-band.png">
+<img width="300px"  alt="Cat Band Interface" src="https://github.com/rebecca-shoptaw/rebecca-shoptaw.github.io/blob/main/public/cat-band.png">
 
 ### Cat Band 🎷🐈‍⬛
 An all-cat jazz band. 
