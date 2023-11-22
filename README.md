@@ -43,8 +43,8 @@ Portfolio:
 
 Cat Band:
 - [x] New background
-- [ ] Redo data storage
-- [ ] Move cats into separate, reusable component
+- [x] Redo data storage
+- [x] Move cats into separate, reusable component
 
 
 
