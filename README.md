@@ -1,5 +1,5 @@
 ## About    📃✨
-Hello! My name is Rebecca Shoptaw and I'm a freelance frontend developer. 
+Hello! My name is Rebecca and I'm a freelance frontend developer. 
 
 I started coding back in college in 2015 (amusing video of me at 19 talking about my video-editing app [here](https://youtu.be/TWw28ZwjQvE?t=5390)). Now, I'm focusing on frontend development and using React, Typescript and HTML/CSS to design, build and maintain client sites and an array of personal projects. 
 
@@ -21,7 +21,9 @@ Building with:
 | **Tabula Rasa**  | Stylish and streamlined markdown previewer. 💻🌲| [x](https://github.com/rebecca-shoptaw/tabula-rasa)   | [x](https://rebeccashoptaw.dev/tabula-rasa)     |
 | **Mrs. John Lennox**  | Press kit site for a Super 8mm short film. 👩🎥 | [x](https://github.com/rebecca-shoptaw/mrs-john-lennox)   | [x](https://rebeccashoptaw.dev/mrs-john-lennox)     |
 
-## What I'm working on 🖋️📈
+## What I'm working on* 🖋️📈
+*On the personal project front, that is
+  
 ### Overall Project Priorities:
 💡 Improve modularity across projects
 
