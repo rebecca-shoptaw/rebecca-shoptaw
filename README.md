@@ -31,23 +31,19 @@ Building with:
 
 💡 Implement Open Editions & Triolingo expansions
 
-### This week's tasks:
+### This week's tasks (11/27):
 Open Editions:
-- [x] Begin design & implementation of OE home & search pages
 - [ ] Use SASS to make styling easier to reuse for new pages
 - [ ] Finalize search algorithm
+- [ ] Deploy search page
 
 Portfolio:
-- [x] Shift portfolio project tile into a separate component
-- [x] Redo portfolio data storage
 - [ ] Continue improving SEO
 - [ ] Run more performance tests
 
 Cat Band:
-- [x] New background
-- [x] Redo data storage
-- [x] Move cats into separate, reusable component
-
+- [ ] Prevent extra re-renders
+- [ ] Write Readme
 
 
 ## Contact & More 📬✨
