@@ -31,7 +31,7 @@ Building with:
 
 💡 Implement Open Editions & Triolingo expansions
 
-### This week's tasks (11/27):
+### This week's tasks:
 Open Editions:
 - [ ] Use SASS to make styling easier to reuse for new pages
 - [ ] Finalize search algorithm
@@ -43,6 +43,7 @@ Portfolio:
 
 Cat Band:
 - [ ] Prevent extra re-renders
+- [ ] Add test suite via Jest
 - [ ] Write Readme
 
 
