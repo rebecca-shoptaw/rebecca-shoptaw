@@ -33,7 +33,7 @@ Building with:
 
 ### This week's tasks:
 Open Editions:
-- [ ] Use SASS to make styling easier to reuse for new pages
+- [x] Use SASS to make styling easier to reuse for new pages
 - [ ] Finalize search algorithm
 - [ ] Deploy search page
 
