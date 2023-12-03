@@ -31,7 +31,7 @@ Building with:
 
 💡 Implement Open Editions & Triolingo expansions
 
-### This week's tasks:
+### Current Tasks:
 Open Editions:
 - [x] Use SASS to make styling easier to reuse for new pages
 - [ ] Finalize search algorithm
