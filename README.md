@@ -31,21 +31,6 @@ Building with:
 
 💡 Implement Open Editions & Triolingo expansions
 
-### Current Tasks:
-Open Editions:
-- [x] Use SASS to make styling easier to reuse for new pages
-- [ ] Finalize search algorithm
-- [ ] Deploy search page
-
-Portfolio:
-- [ ] Continue improving SEO
-- [ ] Run more performance tests
-
-Cat Band:
-- [ ] Prevent extra re-renders
-- [ ] Add test suite via Jest
-- [ ] Write Readme
-
 
 ## Contact & More 📬✨
 [Email](mailto:rebecca@rebeccashoptaw.dev) | [LinkedIn](https://www.linkedin.com/in/rebeccashoptaw/) | [Resume](https://rebeccashoptaw.dev/Rebecca_Shoptaw_resume.pdf)
