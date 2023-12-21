@@ -31,6 +31,15 @@ Building with:
 
 💡 Implement Open Editions & Triolingo expansions
 
+### Current Tasks:
+[Ask Oscar Wilde][https://github.com/rebecca-shoptaw/ask-oscar-wilde]
+- [x] Redo styling using SASS
+- [x] Replace remaining Bootstrap classes with SASS code
+- [x] Use meta and Schema.org tags to improve SEO
+- [x] Reorganize app using custom hooks and sub-components
+- [ ] Use GSAP to create a fun quote loading and reveal animation
+- [ ] Add a test suite via Jest
+
 
 ## Contact & More 📬✨
 [Email](mailto:rebecca@rebeccashoptaw.dev) | [LinkedIn](https://www.linkedin.com/in/rebeccashoptaw/) | [Resume](https://rebeccashoptaw.dev/Rebecca_Shoptaw_resume.pdf)
