@@ -5,7 +5,7 @@ I started coding back in college in 2015 (amusing video of me at 19 talking abou
 
 Building with:
 
-[![React][React-icon]][React-url] [![Vite][Vite-icon]][Vite-url] [![Typescript][TS-icon]][TS-url] [![HTML][HTML-icon]][HTML-url] [![CSS][CSS-icon]][CSS-url]
+[![React][React-icon]][React-url] [![Vite][Vite-icon]][Vite-url] [![Typescript][TS-icon]][TS-url] [![HTML][HTML-icon]][HTML-url] [![CSS][CSS-icon]][CSS-url] [![SASS][SASS-icon]][SASS-url] [![GSAP][GSAP-icon]][GSAP-url]
 
 ## Project Library 🤖📚
 |     | About |  Repo | Live |
@@ -41,7 +41,7 @@ Building with:
 - [ ] Add a test suite via Jest
 
 [Portfolio](https://github.com/rebecca-shoptaw/rebecca-shoptaw.github.io)
-- [ ] Add a README, CoC and license
+- [x] Add a README, CoC and license
 - [x] Use GSAP to create a fun intro animation
 - [ ] Use meta and Schema.org tags to improve SEO
 - [ ] Redo styling using SASS
@@ -65,3 +65,7 @@ Building with:
 [HTML-url]: https://www.w3schools.com/html/
 [CSS-icon]: https://img.shields.io/badge/-CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6
 [CSS-url]: https://www.w3schools.com/css/
+[SASS-icon]: https://img.shields.io/badge/-Sass-20232A?style=for-the-badge&logo=sass&logoColor=CC6699
+[SASS-url]: https://sass-lang.com/
+[GSAP-icon]: https://img.shields.io/badge/-GSAP-20232A?style=for-the-badge&logo=greensock&logoColor=88CE02
+[GSAP-url]: https://gsap.com/
