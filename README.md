@@ -37,7 +37,16 @@ Building with:
 - [x] Replace remaining Bootstrap classes with SASS code
 - [x] Use meta and Schema.org tags to improve SEO
 - [x] Reorganize app using custom hooks and sub-components
-- [ ] Use GSAP to create a fun quote loading and reveal animation
+- [x] Use GSAP to create a fun quote loading and reveal animation
+- [ ] Add a test suite via Jest
+
+[Portfolio](https://github.com/rebecca-shoptaw/rebecca-shoptaw.github.io)
+- [ ] Add a README, CoC and license
+- [x] Use GSAP to create a fun intro animation
+- [ ] Use meta and Schema.org tags to improve SEO
+- [ ] Redo styling using SASS
+- [x] Reorganize app using custom hooks and sub-components
+- [ ] Shift scroll animations from react-reveal to GSAP
 - [ ] Add a test suite via Jest
 
 
