@@ -43,7 +43,7 @@ Building with:
 [Portfolio](https://github.com/rebecca-shoptaw/rebecca-shoptaw.github.io)
 - [x] Add a README, CoC and license
 - [x] Use GSAP to create a fun intro animation
-- [ ] Use meta and Schema.org tags to improve SEO
+- [x] Use meta and Schema.org tags to improve SEO
 - [ ] Redo styling using SASS
 - [x] Reorganize app using custom hooks and sub-components
 - [ ] Shift scroll animations from react-reveal to GSAP
