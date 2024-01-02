@@ -44,7 +44,7 @@ Building with:
 - [x] Add a README, CoC and license
 - [x] Use GSAP to create a fun intro animation
 - [x] Use meta and Schema.org tags to improve SEO
-- [ ] Redo styling using SASS
+- [x] Redo styling using SASS
 - [x] Reorganize app using custom hooks and sub-components
 - [ ] Shift scroll animations from react-reveal to GSAP
 - [ ] Add a test suite via Jest
