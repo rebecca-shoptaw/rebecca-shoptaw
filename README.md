@@ -36,6 +36,9 @@ Re-organize/improve modularity:
 - [x] Ask Oscar Wilde
 - [x] Portfolio
 - [ ] Triolingo
+  - [x] Sub-component division
+  - [ ] Optimize data flow - in progress
+  - [ ] CSS -> SASS
 - [ ] Open Editions
 - [ ] Cat Band
 - [ ] Pomodoro
