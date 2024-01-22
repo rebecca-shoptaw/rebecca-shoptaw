@@ -40,7 +40,8 @@ Re-organize/improve modularity:
   - [ ] Optimize data flow - in progress
   - [ ] CSS -> SASS
 - [ ] Open Editions
-  - [ ] More sub-component division
+  - [x] Build homepage
+  - [ ] Finalize sub-component division
   - [ ] Optimize data flow & data storage
   - [ ] Finalize CSS -> SASS
 - [ ] Cat Band
