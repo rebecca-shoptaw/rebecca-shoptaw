@@ -32,6 +32,12 @@ Building with:
 💡 Implement Open Editions & Triolingo expansions
 
 ### Current Tasks:
+Open Editions expansion:
+- [x] Build new homepage
+- [ ] Finalize [LibriVox API](https://librivox.org/) integration
+- [ ] Switch cover image methods to the (Art Institute of Chicago API)[https://api.artic.edu/docs/]
+- [ ] Begin rebuilding audio player using RSS feeds
+
 Re-organize/improve modularity: 
 - [x] Ask Oscar Wilde
 - [x] Portfolio
@@ -40,8 +46,7 @@ Re-organize/improve modularity:
   - [ ] Optimize data flow - in progress
   - [ ] CSS -> SASS
 - [ ] Open Editions
-  - [x] Build homepage
-  - [ ] Finalize sub-component division
+  - [ ] Finalize sub-component division - in progress
   - [ ] Optimize data flow & data storage
   - [ ] Finalize CSS -> SASS
 - [ ] Cat Band
