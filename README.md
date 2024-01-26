@@ -35,7 +35,7 @@ Building with:
 Open Editions expansion:
 - [x] Build new homepage
 - [ ] Finalize [LibriVox API](https://librivox.org/) integration
-- [ ] Switch cover image methods to the (Art Institute of Chicago API)[https://api.artic.edu/docs/]
+- [ ] Switch cover image methods to the [Art Institute of Chicago API](https://api.artic.edu/docs/)
 - [ ] Begin rebuilding audio player using RSS feeds
 
 Re-organize/improve modularity: 
