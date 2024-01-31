@@ -1,7 +1,7 @@
 ## About    📃✨
-Hello! My name is Rebecca and I'm a freelance frontend developer. 
+Hello! My name is Rebecca and I'm an NYC-based frontend software engineer with a background in film. Currently working freelance and on the Internet Archive's open-source [Open Library](https://github.com/internetarchive/openlibrary) project.
 
-I started coding back in college in 2015 (amusing video of me at 19 talking about my video-editing app [here](https://youtu.be/TWw28ZwjQvE?t=5390)). Now, I'm focusing on frontend development and using React, Typescript and HTML/CSS to design, build and maintain client sites and an array of personal projects. 
+Started coding back in 2015; amusing video of me at 19 talking about my video-editing app [here](https://youtu.be/TWw28ZwjQvE?t=5390).
 
 Building with:
 
