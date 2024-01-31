@@ -3,7 +3,7 @@ Hello! My name is Rebecca and I'm an NYC-based frontend software engineer with a
 
 Started coding back in 2015; amusing video of me at 19 talking about my video-editing app [here](https://youtu.be/TWw28ZwjQvE?t=5390).
 
-Opened this new account late 2023 to be the home of my current programming work.
+Opened this account late 2023 to be the home of my current programming work.
 
 
 Building with:
