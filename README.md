@@ -1,11 +1,11 @@
 ## About    📃✨
-Hello! My name is Rebecca and I'm an NYC-based frontend software engineer with a background in film. Currently working freelance and on the Internet Archive's open-source [Open Library](https://github.com/internetarchive/openlibrary) project.
+Hello! My name is Rebecca and I'm an NYC-based frontend software engineer with a background in film. Currently working freelance and on the Internet Archive's open-source [Open Library](https://github.com/internetarchive/openlibrary) project -- latest contributions [here](https://github.com/internetarchive/openlibrary/pulls?q=is%3Apr+author%3Arebecca-shoptaw).
 
 Started coding back in 2015; amusing video of me at 19 talking about my video-editing app [here](https://youtu.be/TWw28ZwjQvE?t=5390).
 
 Building with:
 
-[![React][React-icon]][React-url] [![Vite][Vite-icon]][Vite-url] [![Typescript][TS-icon]][TS-url] [![HTML][HTML-icon]][HTML-url] [![CSS][CSS-icon]][CSS-url] [![SASS][SASS-icon]][SASS-url] [![GSAP][GSAP-icon]][GSAP-url]
+[![React][React-icon]][React-url] [![Vite][Vite-icon]][Vite-url] [![Javascript][JS-icon]][JS-url] [![Typescript][TS-icon]][TS-url] [![HTML][HTML-icon]][HTML-url] [![CSS][CSS-icon]][CSS-url] [![SASS][SASS-icon]][SASS-url] [![GSAP][GSAP-icon]][GSAP-url]
 
 ## Project Library 🤖📚
 |     | About |  Repo | Live |
@@ -65,6 +65,8 @@ Re-organize/improve modularity:
 [React-url]: https://react.dev/
 [Vite-icon]: https://img.shields.io/badge/-Vite-20232A?style=for-the-badge&logo=vite&logoColor=646CFF
 [Vite-url]: https://vitejs.dev/
+[JS-icon]: https://img.shields.io/badge/-Javscript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+[JS-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [TS-icon]: https://img.shields.io/badge/-Typescript-20232A?style=for-the-badge&logo=typescript&logoColor=3178C6
 [TS-url]: https://www.typescriptlang.org/
 [HTML-icon]: https://img.shields.io/badge/-HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26
