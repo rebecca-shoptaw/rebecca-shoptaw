@@ -56,8 +56,6 @@ Re-organize/improve modularity:
 - [ ] Pomodoro
 - [ ] CalmTube
 - [ ] Deco Calculator
-- [ ] Tabula Rasa
-- [ ] Mrs. John Lennox
 
 ## Contact & More 📬✨
 [Email](mailto:rebecca@rebeccashoptaw.dev) | [LinkedIn](https://www.linkedin.com/in/rebeccashoptaw/) | [Resume](https://rebeccashoptaw.dev/Rebecca_Shoptaw_resume.pdf)
