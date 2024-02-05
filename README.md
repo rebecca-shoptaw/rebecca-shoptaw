@@ -1,5 +1,5 @@
 ## About    📃✨
-Hello! My name is Rebecca and I'm an NYC-based frontend software engineer with a background in film. Currently working freelance and on the Internet Archive's open-source [Open Library](https://github.com/internetarchive/openlibrary) project; latest contributions [here](https://github.com/internetarchive/openlibrary/pulls?q=is%3Apr+author%3Arebecca-shoptaw).
+Hello! My name is Rebecca and I'm an NYC-based frontend software engineer with a background in film. Currently working freelance and on the Internet Archive's open-source [Open Library](https://github.com/internetarchive/openlibrary) project.
 
 Started coding back in 2015; amusing video of me at 19 talking about my video-editing app [here](https://youtu.be/TWw28ZwjQvE?t=5390).
 
@@ -24,38 +24,18 @@ Building with:
 | **Tabula Rasa**  | Stylish and streamlined markdown previewer. 💻🌲| [x](https://github.com/rebecca-shoptaw/tabula-rasa)   | [x](https://rebeccashoptaw.dev/tabula-rasa)     |
 | **Mrs. John Lennox**  | Press kit site for a Super 8mm short film. 👩🎥 | [x](https://github.com/rebecca-shoptaw/mrs-john-lennox)   | [x](https://rebeccashoptaw.dev/mrs-john-lennox)     |
 
-## What I'm working on* 🖋️📈
-*On the personal project front, that is
-  
-### Overall Project Priorities:
-💡 Improve modularity across projects
+## What I'm working on 🖋️📈
 
-💡 Continue optimizing performance across projects
+💡 **Freelance**: 
+- Building a multipurpose `React` site for an actor/musician/filmmaker.
 
-💡 Implement Open Editions & Triolingo expansions
+💡 **Projects**: 
+- Using `React Native` to rebuild Ask Oscar Wilde as a [mobile app](https://github.com/rebecca-shoptaw/ask-oscar-mobile).
 
-### Current Tasks:
-Open Editions expansion:
-- [x] Build new homepage
-- [ ] Finalize [LibriVox API](https://librivox.org/) integration
-- [ ] Switch cover image methods to the [Art Institute of Chicago API](https://api.artic.edu/docs/)
-- [ ] Begin rebuilding audio player using RSS feeds
+💡 **Open Library**:
+- Fixing up form image validation. 
 
-Re-organize/improve modularity: 
-- [x] Ask Oscar Wilde
-- [x] Portfolio
-- [ ] Triolingo
-  - [x] Sub-component division
-  - [ ] Optimize data flow - in progress
-  - [ ] CSS -> SASS
-- [ ] Open Editions
-  - [ ] Finalize sub-component division - in progress
-  - [ ] Optimize data flow & data storage
-  - [ ] Finalize CSS -> SASS
-- [ ] Cat Band
-- [ ] Pomodoro
-- [ ] CalmTube
-- [ ] Deco Calculator
+
 
 ## Contact & More 📬✨
 [Email](mailto:rebecca@rebeccashoptaw.dev) | [LinkedIn](https://www.linkedin.com/in/rebeccashoptaw/) | [Resume](https://rebeccashoptaw.dev/Rebecca_Shoptaw_resume.pdf)
