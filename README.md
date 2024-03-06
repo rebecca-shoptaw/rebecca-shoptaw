@@ -24,19 +24,6 @@ Building with:
 | **Tabula Rasa**  | Stylish and streamlined markdown previewer. 💻🌲| [x](https://github.com/rebecca-shoptaw/tabula-rasa)   | [x](https://rebeccashoptaw.dev/tabula-rasa)     |
 | **Mrs. John Lennox**  | Press kit site for a Super 8mm short film. 👩🎥 | [x](https://github.com/rebecca-shoptaw/mrs-john-lennox)   | [x](https://rebeccashoptaw.dev/mrs-john-lennox)     |
 
-## What I'm working on 🖋️📈
-
-💡 **Freelance**: 
-- Building a multipurpose `React` site for an actor/musician/filmmaker.
-
-💡 **Projects**: 
-- Using `React Native` to rebuild Ask Oscar Wilde as a [mobile app](https://github.com/rebecca-shoptaw/ask-oscar-mobile).
-
-💡 **Open Library**:
-- Fixing up form image validation. 
-
-
-
 ## Contact & More 📬✨
 [Email](mailto:rebecca@rebeccashoptaw.dev) | [LinkedIn](https://www.linkedin.com/in/rebeccashoptaw/) | [Resume](https://rebeccashoptaw.dev/Rebecca_Shoptaw_resume.pdf)
 
