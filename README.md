@@ -1,14 +1,31 @@
 ## About    📃✨
-Hello! My name is Rebecca and I'm an NYC-based frontend software engineer with a background in film. Currently working freelance and on the Internet Archive's open-source [Open Library](https://github.com/internetarchive/openlibrary) project.
+Hello! My name is Rebecca and I'm an NYC-based software engineer & filmmaker, currently working freelance and on the Internet Archive's open-source [Open Library](https://github.com/internetarchive/openlibrary) project.
 
-Started coding back in 2015; amusing video of me at 19 talking about my video-editing app [here](https://youtu.be/TWw28ZwjQvE?t=5390).
+I started coding back in 2015 (amusing video of me at 19 talking about my video-editing app [here](https://youtu.be/TWw28ZwjQvE?t=5390)), and I opened this account late 2023 to be the home of my current programming work.
 
-Opened this account late 2023 to be the home of my current programming work.
+---
 
+**Primary Tech Stack**
 
-Building with:
+[![React][React-icon]][React-url] [![Typescript][TS-icon]][TS-url]  [![Javascript][JS-icon]][JS-url] [![HTML][HTML-icon]][HTML-url] [![CSS][CSS-icon]][CSS-url] 
 
-[![React][React-icon]][React-url] [![Vite][Vite-icon]][Vite-url] [![Javascript][JS-icon]][JS-url] [![Typescript][TS-icon]][TS-url] [![HTML][HTML-icon]][HTML-url] [![CSS][CSS-icon]][CSS-url] [![SASS][SASS-icon]][SASS-url] [![GSAP][GSAP-icon]][GSAP-url]
+**With React**
+
+[![Node.js][Node-icon]][Node-url] [![Next.js][Next-icon]][Next-url] [![Vercel][Vercel-icon]][Vercel-url] [![Vite][Vite-icon]][Vite-url] 
+
+**Mobile**
+
+[![React Native][RN-icon]][RN-url] [![Swift][Swift-icon]][Swift-url] 
+
+**Design & Styling**
+
+[![Tailwind][Tailwind-icon]][Tailwind-url] [![SASS][SASS-icon]][SASS-url] [![GSAP][GSAP-icon]][GSAP-url] 
+
+**Testing & Containerization**
+
+[![Jest][Jest-icon]][Jest-url] [![Docker][Docker-icon]][Docker-url] 
+
+---
 
 ## Project Library 🤖📚
 |     | About |  Repo | Live |
@@ -24,15 +41,15 @@ Building with:
 | **Tabula Rasa**  | Stylish and streamlined markdown previewer. 💻🌲| [x](https://github.com/rebecca-shoptaw/tabula-rasa)   | [x](https://rebeccashoptaw.dev/tabula-rasa)     |
 | **Mrs. John Lennox**  | Press kit site for a Super 8mm short film. 👩🎥 | [x](https://github.com/rebecca-shoptaw/mrs-john-lennox)   | [x](https://rebeccashoptaw.dev/mrs-john-lennox)     |
 
+---
+
 ## Contact & More 📬✨
 [Email](mailto:rebecca@rebeccashoptaw.dev) | [LinkedIn](https://www.linkedin.com/in/rebeccashoptaw/) | [Resume](https://rebeccashoptaw.dev/Rebecca_Shoptaw_resume.pdf)
 
 
 <!-- Links and Icons --> 
-[React-icon]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-icon]: https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://react.dev/
-[Vite-icon]: https://img.shields.io/badge/-Vite-20232A?style=for-the-badge&logo=vite&logoColor=646CFF
-[Vite-url]: https://vitejs.dev/
 [JS-icon]: https://img.shields.io/badge/-Javscript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E
 [JS-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [TS-icon]: https://img.shields.io/badge/-Typescript-20232A?style=for-the-badge&logo=typescript&logoColor=3178C6
@@ -41,7 +58,25 @@ Building with:
 [HTML-url]: https://www.w3schools.com/html/
 [CSS-icon]: https://img.shields.io/badge/-CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6
 [CSS-url]: https://www.w3schools.com/css/
+[Node-icon]: https://img.shields.io/badge/-NodeJS-20232A?style=for-the-badge&logo=nodedotjs&logoColor=339933
+[Node-url]: https://nodejs.org/
+[Next-icon]: https://img.shields.io/badge/-NextJS-20232A?style=for-the-badge&logo=nextdotjs&logoColor=ffffff
+[Next-url]: https://nextjs.org/
+[Vercel-icon]: https://img.shields.io/badge/-Vercel-20232A?style=for-the-badge&logo=vercel&logoColor=ffffff
+[Vercel-url]: https://vercel.com/
+[Vite-icon]: https://img.shields.io/badge/-Vite-20232A?style=for-the-badge&logo=vite&logoColor=646CFF
+[Vite-url]: https://vitejs.dev/
+[RN-icon]: https://img.shields.io/badge/-React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[RN-url]: https://reactnative.dev/
+[Swift-icon]: https://img.shields.io/badge/-Swift-20232A?style=for-the-badge&logo=swift&logoColor=F05138
+[Swift-url]: https://www.swift.org/
+[Tailwind-icon]: https://img.shields.io/badge/-TailwindCSS-20232A?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4
+[Tailwind-url]: https://tailwindcss.com/
 [SASS-icon]: https://img.shields.io/badge/-Sass-20232A?style=for-the-badge&logo=sass&logoColor=CC6699
 [SASS-url]: https://sass-lang.com/
 [GSAP-icon]: https://img.shields.io/badge/-GSAP-20232A?style=for-the-badge&logo=greensock&logoColor=88CE02
 [GSAP-url]: https://gsap.com/
+[Jest-icon]: https://img.shields.io/badge/-Jest-20232A?style=for-the-badge&logo=jest&logoColor=C21325
+[Jest-url]: https://jestjs.io/
+[Docker-icon]: https://img.shields.io/badge/-Docker-20232A?style=for-the-badge&logo=docker&logoColor=2496ED
+[Docker-url]: https://www.docker.com/
