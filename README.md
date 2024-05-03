@@ -1,9 +1,9 @@
 ## About    📃✨
-Hello! My name is Rebecca and I'm an NYC-based software engineer & filmmaker, currently working freelance and on the Internet Archive's open-source [Open Library](https://github.com/internetarchive/openlibrary) project.
+Hello! My name is Rebecca and I'm an NYC-based software engineer, currently an Engineering Fellow & Frontend/Internationalization Lead on the Internet Archive's [Open Library](https://github.com/internetarchive/openlibrary) project. 
 
-I started coding back in 2015 -- amusing video of me at 19 talking about my video-editing app [here](https://youtu.be/TWw28ZwjQvE?t=5390)) -- and I opened this account late 2023 to be the home of my current programming work.
+My latest OL contributions are [here](https://github.com/internetarchive/openlibrary/issues?q=author%3Arebecca-shoptaw), and my recent personal projects are featured below.
 
----
+## Tech Stack 💻🖱️
 
 **Primary Tech Stack**
 
@@ -25,8 +25,6 @@ I started coding back in 2015 -- amusing video of me at 19 talking about my vide
 
 [![Jest][Jest-icon]][Jest-url] [![Docker][Docker-icon]][Docker-url] 
 
----
-
 ## Project Library 🤖📚
 |     | About |  Repo | Live |
 | --------------- | ------- | -------| ------- |
@@ -40,8 +38,6 @@ I started coding back in 2015 -- amusing video of me at 19 talking about my vide
 | **Deco Calculator**  | Working calculator for all your art deco calculation needs. ➗🔸| [x](https://github.com/rebecca-shoptaw/deco-calculator)   | [x](https://rebeccashoptaw.dev/deco-calculator)     |
 | **Tabula Rasa**  | Stylish and streamlined markdown previewer. 💻🌲| [x](https://github.com/rebecca-shoptaw/tabula-rasa)   | [x](https://rebeccashoptaw.dev/tabula-rasa)     |
 | **Mrs. John Lennox**  | Press kit site for a Super 8mm short film. 👩🎥 | [x](https://github.com/rebecca-shoptaw/mrs-john-lennox)   | [x](https://rebeccashoptaw.dev/mrs-john-lennox)     |
-
----
 
 ## Contact & More 📬✨
 [Email](mailto:rebecca@rebeccashoptaw.dev) | [LinkedIn](https://www.linkedin.com/in/rebeccashoptaw/) | [Resume](https://rebeccashoptaw.dev/Rebecca_Shoptaw_resume.pdf)
