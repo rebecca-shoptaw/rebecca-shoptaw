@@ -1,9 +1,21 @@
-## About    📃✨
-Hello! My name is Rebecca and I'm an NYC-based software engineer, currently an Engineering Fellow & Frontend/Internationalization Lead on the Internet Archive's [Open Library](https://github.com/internetarchive/openlibrary) project. 
+## About    
+Hello! My name is Rebecca and I'm an NYC-based software engineer with a track record of realizing ambitious projects with rapid speed 🚀 and minute precision 🔎. 
+
+- 🏢 **Engineering Fellow & Frontend/Internationalization Lead** - the Internet Archive's [Open Library](https://github.com/internetarchive/openlibrary) project.
+- 📬 **Email** - [rebecca@rebeccashoptaw.dev](mailto:rebecca@rebeccashoptaw.dev)
+- 🤝 **LinkedIn** - [/in/rebeccashoptaw/](https://www.linkedin.com/in/rebeccashoptaw/)
+- 📄 **Resume** - [Rebecca_Shoptaw_Resume.pdf](https://rebeccashoptaw.dev/Rebecca_Shoptaw_resume.pdf)
+- 🎨 **Portfolio** - [rebeccashoptaw.dev](https://rebeccashoptaw.dev/)
+
+I'm a big believer in:
+- ✨ **Clean, DRY code** - easy to read, easy to update
+- 🧩 **Modularity** - write it once, use it 800 times
+- ✅ **Maintainable code** - no hacky workarounds, find a solution that makes sense and will last
+- ✉️ **Clear communication** - the only way things get done
 
 My latest OL contributions are [here](https://github.com/internetarchive/openlibrary/issues?q=author%3Arebecca-shoptaw), and my recent personal projects are featured below.
 
-## Tech Stack 💻🖱️
+## Tech Stack 
 
 **Primary Tech Stack**
 
@@ -25,7 +37,7 @@ My latest OL contributions are [here](https://github.com/internetarchive/openlib
 
 [![Jest][Jest-icon]][Jest-url] [![Docker][Docker-icon]][Docker-url] 
 
-## Project Library 🤖📚
+## Personal Project Library
 |     | About |  Repo | Live |
 | --------------- | ------- | -------| ------- |
 | **Portfolio**  | Responsive portfolio site with on-scroll animations and other fun stylistic touches. 📂🌹 |  [x](https://github.com/rebecca-shoptaw/rebecca-shoptaw.github.io)   | [x](https://rebeccashoptaw.dev/)     |
@@ -39,8 +51,10 @@ My latest OL contributions are [here](https://github.com/internetarchive/openlib
 | **Tabula Rasa**  | Stylish and streamlined markdown previewer. 💻🌲| [x](https://github.com/rebecca-shoptaw/tabula-rasa)   | [x](https://rebeccashoptaw.dev/tabula-rasa)     |
 | **Mrs. John Lennox**  | Press kit site for a Super 8mm short film. 👩🎥 | [x](https://github.com/rebecca-shoptaw/mrs-john-lennox)   | [x](https://rebeccashoptaw.dev/mrs-john-lennox)     |
 
-## Contact & More 📬✨
-[Email](mailto:rebecca@rebeccashoptaw.dev) | [LinkedIn](https://www.linkedin.com/in/rebeccashoptaw/) | [Resume](https://rebeccashoptaw.dev/Rebecca_Shoptaw_resume.pdf)
+## Contact
+- 📬 **Email** - [rebecca@rebeccashoptaw.dev](mailto:rebecca@rebeccashoptaw.dev)
+- 🤝 **LinkedIn** - [/in/rebeccashoptaw/](https://www.linkedin.com/in/rebeccashoptaw/)
+- 📄 **Resume** - [Rebecca_Shoptaw_Resume.pdf](https://rebeccashoptaw.dev/Rebecca_Shoptaw_resume.pdf)
 
 
 <!-- Links and Icons --> 
