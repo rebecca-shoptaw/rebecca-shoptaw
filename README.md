@@ -1,7 +1,7 @@
 ## About    
 Hello! My name is Rebecca and I'm an NYC-based software engineer with a track record of realizing ambitious projects with rapid speed 🚀 and minute precision 🔎. 
 
-- 🏢 **Engineering Fellow & Frontend/Internationalization Lead** - the Internet Archive's [Open Library](https://github.com/internetarchive/openlibrary) project.
+- 🏢 **Software Engineer** - [The Internet Archive](https://archve.org/)
 - 📬 **Email** - [rebecca@rebeccashoptaw.dev](mailto:rebecca@rebeccashoptaw.dev)
 - 🤝 **LinkedIn** - [/in/rebeccashoptaw/](https://www.linkedin.com/in/rebeccashoptaw/)
 - 📄 **Resume** - [Rebecca_Shoptaw_Resume.pdf](https://rebeccashoptaw.dev/Rebecca_Shoptaw_resume.pdf)
@@ -12,8 +12,6 @@ I'm a big believer in:
 - 🧩 **Modularity** - write it once, use it 800 times
 - ✅ **Maintainable code** - no hacky workarounds, find a solution that makes sense and will last
 - ✉️ **Clear communication** - the only way things get done
-
-My latest OL contributions are [here](https://github.com/internetarchive/openlibrary/issues?q=author%3Arebecca-shoptaw), and my recent personal projects are featured below.
 
 ## Tech Stack 
 
